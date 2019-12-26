@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Understanding the connection between the main_activity and the itemsadapter was a little though. Had to go over it twice. Everithing else is good and simple.
+Understanding the connection between the main_activity and the itemsadapter was a little though. Had to go over it twice. Everithing else is good and simple. This project gave me a basic uderstanding of how android apps are developed and is a strong base for knowing if one is interested in android app development.
 
 ## License
 
