@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding the connection between the main_activity and the itemsadapter was a little though. Had to go over it twice. Everithing else is good and simple.
 
 ## License
 
